@@ -1,0 +1,83 @@
+
+body{
+    background-image: url("../papel2.jpg");
+    }
+
+
+    h1 {
+        font-weight: bold;
+        font-size: 8vw;
+        /*----------------cambio----------------------*/
+       
+        text-align: center;
+        color:rgb(1, 6, 46);
+        border-radius: 0.7vw;
+    
+        
+        }
+
+        p {
+            font-weight: bold;
+          font-size: 25px;
+          line-height: 50px;
+          color:rgb(249, 249, 250);
+          /*----------------cambio----------------------*/
+          text-align: center;
+          
+          border-style: dashed;
+          border-width: 20px;
+          background-color: rgb(40, 3, 142);
+          border-radius: 0.7vw;
+          margin-top: 100px;
+          margin-bottom: 100px;
+           margin-right: 150px;
+          margin-left: 80px;
+      
+          padding: 50px 80px;
+           }
+      
+      
+           /*espacio ----------------------------------------------------- */
+          h2 {
+            font-style: italic;
+              font-size: 60px;
+              color:rgb(252, 252, 254);
+              /*----------------cambio----------------------*/
+      
+              line-height: 50px;
+              background-color: rgb(40, 3, 142);
+              border-style: dotted;
+              border-width: 20px;
+              /*border-color: rgb(254, 1, 153);*/
+              border-radius: 0.7vw;
+              
+              text-align: center;
+          
+              margin-top: 100px;
+              margin-bottom: 100px;
+              margin-right: 150px;
+              margin-left: 80px;
+          
+              padding: 50px 80px;
+          }
+
+          .center{
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+
+          .avionSuperior{
+            position: absolute;
+            right: 300px;
+            top: 40px;
+         }
+         
+         .avionInferior{
+             position: absolute;
+             left: 250px;
+             bottom:300px ;
+          }
+
+
+            
